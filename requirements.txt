@@ -1,0 +1,10 @@
+langchain==0.1.14
+langchain-core==0.1.37  
+langchain-community==0.0.30
+streamlit
+beautifulsoup4
+requests
+exa-py
+python-dotenv
+urllib3
+tavily-python
