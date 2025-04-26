@@ -44,13 +44,13 @@ streamlit run app.py # Assuming your main Streamlit file is named app.py
 2. Interact with the chatbot by typing your questions in the input field and pressing Enter (or the send icon).
 
 ### Features In Progress
-[X] Web Chat Interface: A user interface built with Streamlit for easy interaction.
-[X] External Tool Integration (Exa.ai): Incorporating external tools like Exa.ai for broader information retrieval.
-[ ] Use LangGraph for Tool Orchestration: Implement LangGraph to manage the flow and selection of different tools more effectively.
-[ ] Integrate Tavily for Enhanced Search: Add Tavily as a tool to broaden search capabilities and potentially improve result relevance.
-[ ] Implement a Router for Tool Selection: Employ a Langchain Router to dynamically choose the most appropriate tool (e.g., web scraping, Tavily) based on the user's query.
-[ ] Contextual Awareness: Implementing memory to retain conversation history for better context handling.
-[ ] More Sophisticated Question Summarization: Improving the agent's ability to focus on the core entity of the question.
+-[X] Web Chat Interface: A user interface built with Streamlit for easy interaction.
+-[X] External Tool Integration (Exa.ai): Incorporating external tools like Exa.ai for broader information retrieval.
+-[ ] Use LangGraph for Tool Orchestration: Implement LangGraph to manage the flow and selection of different tools more effectively.
+-[ ] Integrate Tavily for Enhanced Search: Add Tavily as a tool to broaden search capabilities and potentially improve result relevance.
+-[ ] Implement a Router for Tool Selection: Employ a Langchain Router to dynamically choose the most appropriate tool (e.g., web scraping, Tavily) based on the user's query.
+-[ ] Contextual Awareness: Implementing memory to retain conversation history for better context handling.
+-[ ] More Sophisticated Question Summarization: Improving the agent's ability to focus on the core entity of the question.
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For significant changes or if you encounter any bugs, please open an issue first to discuss what you would like to change.
